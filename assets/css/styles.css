@@ -315,7 +315,7 @@ iframe {
 .experience .item .title .place a:hover {
   color: #666666;
 }
-.experience .item .title .year {
+.experience .item .title .year, .work-history .year {
   color: #999;
   font-weight: normal;
 }
